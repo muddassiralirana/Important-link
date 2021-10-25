@@ -25,3 +25,29 @@ https://tinypng.com/
 
 
 -------------------------------------------------------------------
+
+
+git clone 1 folder to second folder
+
+Rana@DESKTOP-J1OBH4E MINGW64 /d/nextech work
+$ git clone https://github.com/getweysofficial/getweys-site.git next-tech-websiteCloning into 'next-tech-website'...
+
+
+Rana@DESKTOP-J1OBH4E MINGW64 /d/nextech work
+$ cd next-tech-website/
+
+Rana@DESKTOP-J1OBH4E MINGW64 /d/nextech work/next-tech-website (master)
+$ git remote set-url origin https://github.com/getweysofficial/nextech-site.git
+
+Rana@DESKTOP-J1OBH4E MINGW64 /d/nextech work/next-tech-website (master)
+$ git push -f origin master
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+
+
