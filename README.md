@@ -65,6 +65,11 @@ react native elements
 
 https://reactnativeelements.com/
 
+react native paper
+https://reactnativepaper.com/
+
+----------------------------------------------------
+
 
 
 
