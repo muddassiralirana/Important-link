@@ -11,7 +11,7 @@ https://image.online-convert.com/convert-to-webp
 --------------------------------------------------------------------------
 
 
-images shrink link
+#images shrink link
 
 after webp convertion we need to shrink size via
 https://tinypng.com/
