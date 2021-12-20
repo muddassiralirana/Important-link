@@ -78,3 +78,14 @@ react native learning website
 -----------------------------------------------------
 
 
+<h1> react-native app window to linux </h1>
+
+cd android
+ls -l
+chmod 744 gradlew
+ls -l
+
+<!--  -------------------------------------------------->
+
+
+
