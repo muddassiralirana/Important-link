@@ -88,4 +88,13 @@ ls -l
 <!--  -------------------------------------------------->
 
 
+<h1> apk build in linux </h1>
+
+project main ja kar ls ki command
+
+2 > cd android
+
+3> ls
+4> ./gradlew clean && ./gradlew assembleRelease 
+
 
