@@ -99,5 +99,5 @@ project main ja kar ls ki command
 
 <!--  -->-------------------------------------------------------
 
-<h1> react native intermediat website learning 
+<h1> react native intermediat website learning </h1>
 
