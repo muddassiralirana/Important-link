@@ -101,3 +101,6 @@ project main ja kar ls ki command
 
 <h1> react native intermediat website learning </h1>
 https://kadikraman.github.io/react-native-beyond-basics/docs/typescript/solution
+
+
+<!-- -----------=======================================-------------- -->
