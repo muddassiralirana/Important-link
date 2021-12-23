@@ -42,8 +42,6 @@ $ git remote set-url origin https://github.com/getweysofficial/nextech-site.git
 Rana@DESKTOP-J1OBH4E MINGW64 /d/nextech work/next-tech-website (master)
 $ git push -f origin master
 
-
-
 ----------------------------------------------------------------------
 
 
