@@ -106,3 +106,6 @@ https://kadikraman.github.io/react-native-beyond-basics/docs/typescript/solution
 <!-- -----------=======================================-------------- -->
 
 <h1>for diffrent programing and software language websites </h1>
+
+
+w3school.com
