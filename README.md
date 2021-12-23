@@ -105,4 +105,4 @@ https://kadikraman.github.io/react-native-beyond-basics/docs/typescript/solution
 
 <!-- -----------=======================================-------------- -->
 
-<h1>
+<h1>for diffrent programing and software language
