@@ -1,7 +1,7 @@
 # Important-link
 this repo i create for important software links
 
-##react learning website frontend master
+## react learning website frontend master
 https://btholt.github.io/complete-intro-to-react-v6/
 
 <h1>koi software download karne k liye </h1>
