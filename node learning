@@ -38,5 +38,60 @@ npm install --save-dev pakege_ka_name
 
 # import export in node
 
+file 2nd.js
 
+alo={
+name:"ali",
+no:23
+}
+
+module .exports = harry;
+
+
+file 1st 
+
+const rana = require("./file2nd");
+
+console.log(rana)
+
+
+================--------------------------================
+
+
+// module raper  functioni
+// node autumatically raper fuction main kardetahai isliye yae likhne ki zarorat nah
+
+// (function(exports, require, module, __filename, __dirname){
+
+
+    ali={
+        name :"rana Muddassir",
+        number:9,
+        developer:"true"
+    }
+     console.log(exports ,module,require, __dirname, __filename )
+    module.exports=ali
+
+
+// })
+
+
+
+
+
+// ali={
+//     name :"rana Muddassir",
+//     number:9,
+//     developer:"true"
+// }
+
+// module.exports=ali
+
+--------------------------
+
+const rana = require("./2nd");
+
+console.log(rana)
+
+-----------------
 
