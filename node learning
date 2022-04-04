@@ -19,8 +19,17 @@ jese hi IO call resolve hoga is se yeh hota hai k aik se zaida connection simult
 node fast serve karta hai
 node real time app mai zaida use hota hai like chat app etc
 
+node ka version check karne ki command node --version
+npm --version
+
+
+
+--------------------------------------------------------------------------------------------------------------
+
 folder ko node ka project banane ki command hai = npm init
 
 npm stand for node pakage manager
+
+
 
 
