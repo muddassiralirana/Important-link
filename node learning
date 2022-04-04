@@ -31,5 +31,10 @@ folder ko node ka project banane ki command hai = npm init
 npm stand for node pakage manager
 
 
+dev dependancy 
+kuch pakage sirf hum development k time hi use karna chate hain to use hum dev dependecy main install karte hain us k liye
+
+npm install --save-dev pakege_ka_name 
+
 
 
