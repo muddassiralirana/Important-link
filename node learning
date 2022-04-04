@@ -22,7 +22,7 @@ node real time app mai zaida use hota hai like chat app etc
 node ka version check karne ki command node --version
 npm --version
 
-
+nodemon name ka pakage live server ki tarah kam karta hai jo change karoge foran execute karde ga..
 
 --------------------------------------------------------------------------------------------------------------
 
