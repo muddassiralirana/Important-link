@@ -6,3 +6,12 @@ What is node js used for?
 Node. js is primarily used for non-blocking, event-driven servers, due to its single-threaded nature. 
 It's used for traditional web sites and back-end API services, but was designed with real-time, push-based architectures in mind.
 
+single thread can manage multiple connection?
+node single thread multiple connection bhout hi smartly se manage karta hai 
+yeh cheze non blocking IO ki madad se hoti hai 
+jab ap node ko server par run karte hain to iska aik perticular thraed bhut sare cionnnection ko simultaneously handle karta hai  
+misal k tor par client se aik request ati hai isi doran apko aik or server se communicate karna par jata hai ya phir koi aesi process run ki jo IO bound hai mean input output 
+ka wait karahi hai ya kisi data base se data fetch hone ka wait kar rahi hai to wo thraed ko bloack nahi kare gi wo call back ka wait kare gi matlab aik event fire hojaye ga
+jese hi IO call resolve hoga is se yeh hota hai k aik se zaida connection simultaneously handle karliye jate hain node ki madad se.
+
+--------------------------------------------------------------------------------------------------------------------
