@@ -15,3 +15,6 @@ ka wait karahi hai ya kisi data base se data fetch hone ka wait kar rahi hai to 
 jese hi IO call resolve hoga is se yeh hota hai k aik se zaida connection simultaneously handle karliye jate hain node ki madad se.
 
 --------------------------------------------------------------------------------------------------------------------
+
+node fast serve karta hai
+node real time app mai zaida use hota hai like chat app etc
