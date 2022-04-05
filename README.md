@@ -1,6 +1,11 @@
 # Important-link
 this repo i create for important software links
 
+add file in to github'
+git branch -M main
+git remote add origin 
+git push -u origin main
+
 ## react learning website frontend master
 https://btholt.github.io/complete-intro-to-react-v6/
 
