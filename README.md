@@ -6,6 +6,9 @@ git branch -M main
 git remote add origin 
 git push -u origin main
 
+## Horizontal Scroll with GSAP
+https://codepen.io/oldskool123/pen/mdrrbyo
+
 ## react learning website frontend master
 https://btholt.github.io/complete-intro-to-react-v6/
 
