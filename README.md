@@ -7,6 +7,7 @@ git remote add origin
 git push -u origin main
 
 ## Horizontal Scroll with GSAP
+### div ko horizontal scroll karwane k liye
 https://codepen.io/oldskool123/pen/mdrrbyo
 
 ## react learning website frontend master
