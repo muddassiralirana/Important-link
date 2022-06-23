@@ -1,7 +1,7 @@
 # Important-link
 this repo i create for important software links
 h
-
+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
 add file in to github'
 git branch -M main
 git remote add origin 
