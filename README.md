@@ -2,7 +2,7 @@
 this repo i create for important software links
 h
 
-[----------------------------------------------------------link add
+[---------------------------------------------------------
 
 
 …or create a new repository on the command line
