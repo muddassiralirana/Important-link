@@ -7,6 +7,9 @@ this repo i create for important software links
 https://pngtree.com/so/october-2022-calendar
 https://www.pngwing.com/en/search?q=flower+Stickers
 
+system main hard drive check karne k liye
+dfrgui yeh cmd hai
+
 [-------------------------------------------------------}
 
 
