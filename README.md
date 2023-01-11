@@ -10,7 +10,7 @@ https://www.pngwing.com/en/search?q=flower+Stickers
 system main hard drive check karne k liye
 dfrgui yeh cmd hai
 
-![image](https://user-images.githubusercontent.com/73613641/211902515-d2760cf7-6843-46a5-b1ab-febe1c6c75ec.png)
+lusrmgr.msc   psw change for window
 
 
 [-------------------------------------------------------}
